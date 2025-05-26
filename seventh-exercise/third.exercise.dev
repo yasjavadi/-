@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespase std;
+
+int main() {
+	int n;
+	cout<<"please Enter the number:"
+	cin>>n;
+	if(n%2==0)
+	cout<<"the number is even."
+	eise
+	cout<"the number is odd."
+	
+	return 0;
+}
